@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(130,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(130,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(24,24): warning C4101: 'counter3': unreferenced local variable
+  gameSfml63011013.vcxproj -> C:\Users\pleum\source\repos\gameSfml63011013\x64\Debug\gameSfml63011013.exe
